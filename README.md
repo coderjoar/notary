@@ -1,3 +1,4 @@
 # notary
 
-https://only1joar.github.io/notary/
+
+https://onlyonejoar.github.io/notary/
